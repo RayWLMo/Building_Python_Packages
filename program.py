@@ -1,3 +1,3 @@
-from app.fizzbuzz import FizzBuzz
+from app.fizzbuzz import fizz_buzz
 
-print(FizzBuzz())
+print(fizz_buzz())

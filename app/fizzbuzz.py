@@ -1,5 +1,4 @@
-num = 0
-def FizzBuzz():
+def fizz_buzz():
     fizz = int(input("choose your Fizz number:  "))
     buzz = int(input("choose your Buzz number:  "))
     for num in range(100):
